@@ -1,0 +1,12 @@
+.env
+
+# MySQL Data
+mysql-data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
